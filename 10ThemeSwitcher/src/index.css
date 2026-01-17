@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Global layout safety: prevent accidental overflow from padding/100vw issues */
 *, *::before, *::after {
 	box-sizing: border-box;
 }
